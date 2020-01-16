@@ -1,2 +1,2 @@
-# Prism
+# Pri
 eyetracking project 
