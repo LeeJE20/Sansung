@@ -1,2 +1,2 @@
-# Pri
+# Pricus
 eyetracking project 
