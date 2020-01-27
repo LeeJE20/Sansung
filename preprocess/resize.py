@@ -85,7 +85,10 @@ def resizeImage(fishCode):
         except UnidentifiedImageError as e:
             # print(e)
             print("다음 파일은 이미지 파일이 아닙니다: "+path)
-
+            pass
+        except:
+            print("오류입니다: "+path)
+            pass
 print("폴더 안의 사진 파일 크기를 바꾸는 프로그램입니다.")
 for fishCode in fishCodeList:
     resizeImage(fishCode)
