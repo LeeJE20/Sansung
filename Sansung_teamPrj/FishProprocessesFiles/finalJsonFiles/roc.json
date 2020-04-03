@@ -1,0 +1,1302 @@
+[
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 161,
+                "width": 140,
+                "x": 55,
+                "y": 21
+            }
+        ],
+        "class": "image",
+        "filename": "roc021.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 153,
+                "width": 93,
+                "x": 57,
+                "y": 62
+            }
+        ],
+        "class": "image",
+        "filename": "roc053.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154,
+                "width": 179,
+                "x": 16,
+                "y": 48
+            }
+        ],
+        "class": "image",
+        "filename": "roc085.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 102,
+                "width": 167,
+                "x": 25,
+                "y": 71
+            }
+        ],
+        "class": "image",
+        "filename": "roc024.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134,
+                "width": 208,
+                "x": 14,
+                "y": 42
+            }
+        ],
+        "class": "image",
+        "filename": "roc056.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 75,
+                "width": 160,
+                "x": 33,
+                "y": 90
+            }
+        ],
+        "class": "image",
+        "filename": "roc088.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 68,
+                "width": 111,
+                "x": 52,
+                "y": 110
+            }
+        ],
+        "class": "image",
+        "filename": "roc027.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 86,
+                "width": 86,
+                "x": 95,
+                "y": 63
+            }
+        ],
+        "class": "image",
+        "filename": "roc059.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 119,
+                "width": 221,
+                "x": 2,
+                "y": 59
+            }
+        ],
+        "class": "image",
+        "filename": "roc091.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 152,
+                "width": 138,
+                "x": 85,
+                "y": 29
+            }
+        ],
+        "class": "image",
+        "filename": "roc030.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 170,
+                "x": 20,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc062.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 36,
+                "width": 46,
+                "x": 88,
+                "y": 110
+            }
+        ],
+        "class": "image",
+        "filename": "roc094.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 136,
+                "width": 176,
+                "x": 27,
+                "y": 50
+            }
+        ],
+        "class": "image",
+        "filename": "roc001.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131,
+                "width": 224,
+                "x": 0,
+                "y": 34
+            }
+        ],
+        "class": "image",
+        "filename": "roc033.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 88,
+                "width": 150,
+                "x": 29,
+                "y": 76
+            }
+        ],
+        "class": "image",
+        "filename": "roc065.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 61,
+                "width": 121,
+                "x": 24,
+                "y": 161
+            }
+        ],
+        "class": "image",
+        "filename": "roc097.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159,
+                "width": 145,
+                "x": 24,
+                "y": 40
+            }
+        ],
+        "class": "image",
+        "filename": "roc004.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 108,
+                "width": 129,
+                "x": 48,
+                "y": 65
+            }
+        ],
+        "class": "image",
+        "filename": "roc036.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 149,
+                "width": 169,
+                "x": 46,
+                "y": 37
+            }
+        ],
+        "class": "image",
+        "filename": "roc068.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 199,
+                "width": 103,
+                "x": 8,
+                "y": 25
+            }
+        ],
+        "class": "image",
+        "filename": "roc100.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 204,
+                "width": 180,
+                "x": 44,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc007.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 161,
+                "width": 192,
+                "x": 0,
+                "y": 29
+            }
+        ],
+        "class": "image",
+        "filename": "roc039.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 158,
+                "width": 214,
+                "x": 8,
+                "y": 32
+            }
+        ],
+        "class": "image",
+        "filename": "roc071.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 171,
+                "width": 205,
+                "x": 5,
+                "y": 12
+            }
+        ],
+        "class": "image",
+        "filename": "roc010.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154,
+                "width": 202,
+                "x": 20,
+                "y": 58
+            }
+        ],
+        "class": "image",
+        "filename": "roc042.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 70,
+                "width": 164,
+                "x": 21,
+                "y": 56
+            }
+        ],
+        "class": "image",
+        "filename": "roc074.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 186,
+                "width": 207,
+                "x": 11,
+                "y": 21
+            }
+        ],
+        "class": "image",
+        "filename": "roc013.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 94,
+                "width": 194,
+                "x": 30,
+                "y": 69
+            }
+        ],
+        "class": "image",
+        "filename": "roc045.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104,
+                "width": 74,
+                "x": 44,
+                "y": 72
+            }
+        ],
+        "class": "image",
+        "filename": "roc077.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 153,
+                "width": 123,
+                "x": 42,
+                "y": 29
+            }
+        ],
+        "class": "image",
+        "filename": "roc016.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 140,
+                "width": 152,
+                "x": 41,
+                "y": 50
+            }
+        ],
+        "class": "image",
+        "filename": "roc048.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130,
+                "width": 125,
+                "x": 36,
+                "y": 27
+            }
+        ],
+        "class": "image",
+        "filename": "roc080.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159,
+                "width": 224,
+                "x": 0,
+                "y": 24
+            }
+        ],
+        "class": "image",
+        "filename": "roc019.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 98,
+                "width": 150,
+                "x": 38,
+                "y": 27
+            }
+        ],
+        "class": "image",
+        "filename": "roc051.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138,
+                "width": 56,
+                "x": 28,
+                "y": 51
+            }
+        ],
+        "class": "image",
+        "filename": "roc083.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132,
+                "width": 140,
+                "x": 46,
+                "y": 48
+            }
+        ],
+        "class": "image",
+        "filename": "roc022.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 107,
+                "width": 90,
+                "x": 88,
+                "y": 92
+            }
+        ],
+        "class": "image",
+        "filename": "roc054.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 39,
+                "width": 28,
+                "x": 78,
+                "y": 80
+            }
+        ],
+        "class": "image",
+        "filename": "roc086.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 123,
+                "width": 100,
+                "x": 55,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc025.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 163,
+                "width": 222,
+                "x": 2,
+                "y": 59
+            }
+        ],
+        "class": "image",
+        "filename": "roc057.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 136,
+                "width": 85,
+                "x": 33,
+                "y": 67
+            }
+        ],
+        "class": "image",
+        "filename": "roc089.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 112,
+                "width": 62,
+                "x": 32,
+                "y": 86
+            }
+        ],
+        "class": "image",
+        "filename": "roc028.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137,
+                "width": 208,
+                "x": 0,
+                "y": 67
+            }
+        ],
+        "class": "image",
+        "filename": "roc060.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 46,
+                "width": 34,
+                "x": 94,
+                "y": 103
+            }
+        ],
+        "class": "image",
+        "filename": "roc092.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179,
+                "width": 132,
+                "x": 46,
+                "y": 15
+            }
+        ],
+        "class": "image",
+        "filename": "roc031.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104,
+                "width": 166,
+                "x": 21,
+                "y": 88
+            }
+        ],
+        "class": "image",
+        "filename": "roc063.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 83,
+                "width": 63,
+                "x": 144,
+                "y": 85
+            }
+        ],
+        "class": "image",
+        "filename": "roc095.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 135,
+                "width": 144,
+                "x": 48,
+                "y": 40
+            }
+        ],
+        "class": "image",
+        "filename": "roc002.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131,
+                "width": 141,
+                "x": 39,
+                "y": 45
+            }
+        ],
+        "class": "image",
+        "filename": "roc034.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 85,
+                "width": 186,
+                "x": 0,
+                "y": 52
+            }
+        ],
+        "class": "image",
+        "filename": "roc066.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 60,
+                "width": 42,
+                "x": 127,
+                "y": 97
+            }
+        ],
+        "class": "image",
+        "filename": "roc098.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 211,
+                "x": 12,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc005.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 215,
+                "width": 214,
+                "x": 0,
+                "y": 7
+            }
+        ],
+        "class": "image",
+        "filename": "roc037.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154,
+                "width": 167,
+                "x": 0,
+                "y": 70
+            }
+        ],
+        "class": "image",
+        "filename": "roc069.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 193,
+                "width": 147,
+                "x": 36,
+                "y": 21
+            }
+        ],
+        "class": "image",
+        "filename": "roc008.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 143,
+                "x": 81,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc040.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 136,
+                "width": 148,
+                "x": 24,
+                "y": 80
+            }
+        ],
+        "class": "image",
+        "filename": "roc072.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 206,
+                "width": 186,
+                "x": 18,
+                "y": 14
+            }
+        ],
+        "class": "image",
+        "filename": "roc011.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 112,
+                "width": 181,
+                "x": 43,
+                "y": 50
+            }
+        ],
+        "class": "image",
+        "filename": "roc043.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 157,
+                "width": 124,
+                "x": 51,
+                "y": 59
+            }
+        ],
+        "class": "image",
+        "filename": "roc075.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 190,
+                "width": 170,
+                "x": 12,
+                "y": 20
+            }
+        ],
+        "class": "image",
+        "filename": "roc014.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 223,
+                "width": 224,
+                "x": 0,
+                "y": 1
+            }
+        ],
+        "class": "image",
+        "filename": "roc046.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 98,
+                "width": 129,
+                "x": 33,
+                "y": 126
+            }
+        ],
+        "class": "image",
+        "filename": "roc078.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 176,
+                "width": 196,
+                "x": 5,
+                "y": 37
+            }
+        ],
+        "class": "image",
+        "filename": "roc017.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 102,
+                "width": 138,
+                "x": 24,
+                "y": 69
+            }
+        ],
+        "class": "image",
+        "filename": "roc049.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 213,
+                "width": 210,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc081.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 216,
+                "width": 78,
+                "x": 64,
+                "y": 8
+            }
+        ],
+        "class": "image",
+        "filename": "roc020.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 191,
+                "width": 134,
+                "x": 84,
+                "y": 25
+            }
+        ],
+        "class": "image",
+        "filename": "roc052.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 198,
+                "width": 84,
+                "x": 14,
+                "y": 16
+            }
+        ],
+        "class": "image",
+        "filename": "roc084.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 170,
+                "width": 142,
+                "x": 19,
+                "y": 35
+            }
+        ],
+        "class": "image",
+        "filename": "roc023.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 88,
+                "width": 198,
+                "x": 26,
+                "y": 84
+            }
+        ],
+        "class": "image",
+        "filename": "roc055.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 122,
+                "width": 176,
+                "x": 16,
+                "y": 95
+            }
+        ],
+        "class": "image",
+        "filename": "roc087.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 111,
+                "width": 188,
+                "x": 28,
+                "y": 71
+            }
+        ],
+        "class": "image",
+        "filename": "roc026.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 193,
+                "width": 190,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc058.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 198,
+                "width": 204,
+                "x": 13,
+                "y": 15
+            }
+        ],
+        "class": "image",
+        "filename": "roc090.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134,
+                "width": 222,
+                "x": 2,
+                "y": 51
+            }
+        ],
+        "class": "image",
+        "filename": "roc029.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 128,
+                "width": 218,
+                "x": 0,
+                "y": 74
+            }
+        ],
+        "class": "image",
+        "filename": "roc061.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 111,
+                "width": 154,
+                "x": 63,
+                "y": 67
+            }
+        ],
+        "class": "image",
+        "filename": "roc093.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182,
+                "width": 86,
+                "x": 33,
+                "y": 41
+            }
+        ],
+        "class": "image",
+        "filename": "roc032.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 128,
+                "width": 184,
+                "x": 20,
+                "y": 55
+            }
+        ],
+        "class": "image",
+        "filename": "roc064.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 194,
+                "width": 46,
+                "x": 75,
+                "y": 29
+            }
+        ],
+        "class": "image",
+        "filename": "roc096.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 97,
+                "width": 91,
+                "x": 46,
+                "y": 78
+            }
+        ],
+        "class": "image",
+        "filename": "roc003.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182,
+                "width": 211,
+                "x": 0,
+                "y": 37
+            }
+        ],
+        "class": "image",
+        "filename": "roc035.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 212,
+                "width": 166,
+                "x": 41,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "roc067.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 129,
+                "width": 50,
+                "x": 137,
+                "y": 85
+            }
+        ],
+        "class": "image",
+        "filename": "roc099.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 90,
+                "width": 133,
+                "x": 88,
+                "y": 78
+            }
+        ],
+        "class": "image",
+        "filename": "roc006.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 120,
+                "width": 203,
+                "x": 13,
+                "y": 49
+            }
+        ],
+        "class": "image",
+        "filename": "roc038.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104,
+                "width": 129,
+                "x": 74,
+                "y": 96
+            }
+        ],
+        "class": "image",
+        "filename": "roc070.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 82,
+                "width": 164,
+                "x": 34,
+                "y": 80
+            }
+        ],
+        "class": "image",
+        "filename": "roc009.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104,
+                "width": 125,
+                "x": 41,
+                "y": 85
+            }
+        ],
+        "class": "image",
+        "filename": "roc041.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 180,
+                "width": 147,
+                "x": 26,
+                "y": 36
+            }
+        ],
+        "class": "image",
+        "filename": "roc073.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132,
+                "width": 163,
+                "x": 21,
+                "y": 47
+            }
+        ],
+        "class": "image",
+        "filename": "roc012.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 166,
+                "width": 223,
+                "x": 1,
+                "y": 17
+            }
+        ],
+        "class": "image",
+        "filename": "roc044.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181,
+                "width": 144,
+                "x": 24,
+                "y": 30
+            }
+        ],
+        "class": "image",
+        "filename": "roc076.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 92,
+                "width": 132,
+                "x": 19,
+                "y": 66
+            }
+        ],
+        "class": "image",
+        "filename": "roc015.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 223,
+                "width": 222,
+                "x": 2,
+                "y": 1
+            }
+        ],
+        "class": "image",
+        "filename": "roc047.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 170,
+                "width": 198,
+                "x": 11,
+                "y": 29
+            }
+        ],
+        "class": "image",
+        "filename": "roc079.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 175,
+                "width": 160,
+                "x": 37,
+                "y": 18
+            }
+        ],
+        "class": "image",
+        "filename": "roc018.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 160,
+                "width": 180,
+                "x": 29,
+                "y": 37
+            }
+        ],
+        "class": "image",
+        "filename": "roc050.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 133,
+                "width": 147,
+                "x": 31,
+                "y": 43
+            }
+        ],
+        "class": "image",
+        "filename": "roc082.jpeg"
+    }
+]

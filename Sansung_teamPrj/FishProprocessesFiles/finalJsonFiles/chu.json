@@ -1,0 +1,1302 @@
+[
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 151,
+                "width": 217,
+                "x": 7,
+                "y": 73
+            }
+        ],
+        "class": "image",
+        "filename": "chu021.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 112,
+                "width": 59,
+                "x": 71,
+                "y": 72
+            }
+        ],
+        "class": "image",
+        "filename": "chu053.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207,
+                "width": 224,
+                "x": 0,
+                "y": 17
+            }
+        ],
+        "class": "image",
+        "filename": "chu085.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 185,
+                "width": 168,
+                "x": 32,
+                "y": 14
+            }
+        ],
+        "class": "image",
+        "filename": "chu024.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182,
+                "width": 83,
+                "x": 24,
+                "y": 18
+            }
+        ],
+        "class": "image",
+        "filename": "chu056.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 224,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu088.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 164,
+                "width": 93,
+                "x": 40,
+                "y": 60
+            }
+        ],
+        "class": "image",
+        "filename": "chu027.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 156,
+                "width": 182,
+                "x": 24,
+                "y": 17
+            }
+        ],
+        "class": "image",
+        "filename": "chu059.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 83,
+                "width": 147,
+                "x": 22,
+                "y": 72
+            }
+        ],
+        "class": "image",
+        "filename": "chu091.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 158,
+                "width": 84,
+                "x": 104,
+                "y": 66
+            }
+        ],
+        "class": "image",
+        "filename": "chu030.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 89,
+                "width": 52,
+                "x": 101,
+                "y": 66
+            }
+        ],
+        "class": "image",
+        "filename": "chu062.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105,
+                "width": 103,
+                "x": 64,
+                "y": 57
+            }
+        ],
+        "class": "image",
+        "filename": "chu094.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 203,
+                "width": 182,
+                "x": 27,
+                "y": 11
+            }
+        ],
+        "class": "image",
+        "filename": "chu001.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132,
+                "width": 90,
+                "x": 28,
+                "y": 80
+            }
+        ],
+        "class": "image",
+        "filename": "chu033.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 129,
+                "width": 127,
+                "x": 77,
+                "y": 95
+            }
+        ],
+        "class": "image",
+        "filename": "chu065.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 165,
+                "width": 146,
+                "x": 0,
+                "y": 59
+            }
+        ],
+        "class": "image",
+        "filename": "chu097.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179,
+                "width": 187,
+                "x": 26,
+                "y": 40
+            }
+        ],
+        "class": "image",
+        "filename": "chu004.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207,
+                "width": 113,
+                "x": 39,
+                "y": 17
+            }
+        ],
+        "class": "image",
+        "filename": "chu036.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182,
+                "width": 185,
+                "x": 19,
+                "y": 32
+            }
+        ],
+        "class": "image",
+        "filename": "chu068.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 97,
+                "width": 158,
+                "x": 38,
+                "y": 72
+            }
+        ],
+        "class": "image",
+        "filename": "chu100.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 212,
+                "width": 156,
+                "x": 28,
+                "y": 10
+            }
+        ],
+        "class": "image",
+        "filename": "chu007.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220,
+                "width": 224,
+                "x": 0,
+                "y": 4
+            }
+        ],
+        "class": "image",
+        "filename": "chu039.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 221,
+                "width": 141,
+                "x": 83,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu071.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 119,
+                "width": 121,
+                "x": 51,
+                "y": 60
+            }
+        ],
+        "class": "image",
+        "filename": "chu010.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207,
+                "width": 178,
+                "x": 33,
+                "y": 13
+            }
+        ],
+        "class": "image",
+        "filename": "chu042.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 214,
+                "width": 175,
+                "x": 18,
+                "y": 6
+            }
+        ],
+        "class": "image",
+        "filename": "chu074.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 192,
+                "width": 208,
+                "x": 7,
+                "y": 11
+            }
+        ],
+        "class": "image",
+        "filename": "chu013.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 184,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu045.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 214,
+                "width": 224,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu077.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 210,
+                "width": 185,
+                "x": 26,
+                "y": 8
+            }
+        ],
+        "class": "image",
+        "filename": "chu016.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 96,
+                "width": 85,
+                "x": 63,
+                "y": 128
+            }
+        ],
+        "class": "image",
+        "filename": "chu048.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 201,
+                "width": 224,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu080.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 210,
+                "width": 224,
+                "x": 0,
+                "y": 14
+            }
+        ],
+        "class": "image",
+        "filename": "chu019.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 101,
+                "width": 116,
+                "x": 56,
+                "y": 99
+            }
+        ],
+        "class": "image",
+        "filename": "chu051.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 86,
+                "width": 59,
+                "x": 73,
+                "y": 103
+            }
+        ],
+        "class": "image",
+        "filename": "chu083.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220,
+                "width": 133,
+                "x": 91,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu022.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105,
+                "width": 58,
+                "x": 60,
+                "y": 69
+            }
+        ],
+        "class": "image",
+        "filename": "chu054.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 214,
+                "width": 224,
+                "x": 0,
+                "y": 10
+            }
+        ],
+        "class": "image",
+        "filename": "chu086.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 218,
+                "width": 218,
+                "x": 5,
+                "y": 2
+            }
+        ],
+        "class": "image",
+        "filename": "chu025.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 211,
+                "width": 210,
+                "x": 7,
+                "y": 5
+            }
+        ],
+        "class": "image",
+        "filename": "chu057.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 188,
+                "width": 224,
+                "x": 0,
+                "y": 36
+            }
+        ],
+        "class": "image",
+        "filename": "chu089.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 192,
+                "width": 147,
+                "x": 51,
+                "y": 25
+            }
+        ],
+        "class": "image",
+        "filename": "chu028.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 146,
+                "width": 148,
+                "x": 0,
+                "y": 78
+            }
+        ],
+        "class": "image",
+        "filename": "chu060.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179,
+                "width": 215,
+                "x": 9,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu092.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 173,
+                "width": 153,
+                "x": 0,
+                "y": 51
+            }
+        ],
+        "class": "image",
+        "filename": "chu031.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 152,
+                "width": 95,
+                "x": 24,
+                "y": 72
+            }
+        ],
+        "class": "image",
+        "filename": "chu063.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 192,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu095.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 216,
+                "width": 216,
+                "x": 5,
+                "y": 2
+            }
+        ],
+        "class": "image",
+        "filename": "chu002.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137,
+                "width": 161,
+                "x": 40,
+                "y": 87
+            }
+        ],
+        "class": "image",
+        "filename": "chu034.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 213,
+                "width": 168,
+                "x": 43,
+                "y": 11
+            }
+        ],
+        "class": "image",
+        "filename": "chu066.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130,
+                "width": 174,
+                "x": 48,
+                "y": 70
+            }
+        ],
+        "class": "image",
+        "filename": "chu098.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217,
+                "width": 214,
+                "x": 4,
+                "y": 4
+            }
+        ],
+        "class": "image",
+        "filename": "chu005.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131,
+                "width": 224,
+                "x": 0,
+                "y": 93
+            }
+        ],
+        "class": "image",
+        "filename": "chu037.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 98,
+                "width": 52,
+                "x": 112,
+                "y": 126
+            }
+        ],
+        "class": "image",
+        "filename": "chu069.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 153,
+                "width": 116,
+                "x": 54,
+                "y": 40
+            }
+        ],
+        "class": "image",
+        "filename": "chu008.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 183,
+                "x": 21,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu072.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 199,
+                "width": 173,
+                "x": 12,
+                "y": 20
+            }
+        ],
+        "class": "image",
+        "filename": "chu011.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 218,
+                "width": 104,
+                "x": 107,
+                "y": 6
+            }
+        ],
+        "class": "image",
+        "filename": "chu043.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 221,
+                "width": 182,
+                "x": 42,
+                "y": 3
+            }
+        ],
+        "class": "image",
+        "filename": "chu075.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 195,
+                "width": 191,
+                "x": 20,
+                "y": 16
+            }
+        ],
+        "class": "image",
+        "filename": "chu014.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220,
+                "width": 166,
+                "x": 44,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu046.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 222,
+                "x": 2,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu078.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182,
+                "width": 116,
+                "x": 58,
+                "y": 42
+            }
+        ],
+        "class": "image",
+        "filename": "chu017.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 199,
+                "width": 101,
+                "x": 43,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu049.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 177,
+                "width": 134,
+                "x": 90,
+                "y": 46
+            }
+        ],
+        "class": "image",
+        "filename": "chu081.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 187,
+                "width": 174,
+                "x": 50,
+                "y": 12
+            }
+        ],
+        "class": "image",
+        "filename": "chu020.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220,
+                "width": 117,
+                "x": 84,
+                "y": 4
+            }
+        ],
+        "class": "image",
+        "filename": "chu052.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 187,
+                "width": 146,
+                "x": 52,
+                "y": 28
+            }
+        ],
+        "class": "image",
+        "filename": "chu084.jpg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 150,
+                "x": 49,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu023.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 175,
+                "width": 111,
+                "x": 62,
+                "y": 49
+            }
+        ],
+        "class": "image",
+        "filename": "chu055.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 188,
+                "x": 19,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu087.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 185,
+                "width": 98,
+                "x": 45,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu026.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 202,
+                "width": 93,
+                "x": 29,
+                "y": 22
+            }
+        ],
+        "class": "image",
+        "filename": "chu058.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207,
+                "width": 204,
+                "x": 9,
+                "y": 7
+            }
+        ],
+        "class": "image",
+        "filename": "chu090.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 145,
+                "width": 71,
+                "x": 103,
+                "y": 66
+            }
+        ],
+        "class": "image",
+        "filename": "chu029.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217,
+                "width": 180,
+                "x": 44,
+                "y": 7
+            }
+        ],
+        "class": "image",
+        "filename": "chu061.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 214,
+                "width": 184,
+                "x": 26,
+                "y": 6
+            }
+        ],
+        "class": "image",
+        "filename": "chu093.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 222,
+                "width": 224,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu032.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 120,
+                "width": 104,
+                "x": 0,
+                "y": 104
+            }
+        ],
+        "class": "image",
+        "filename": "chu064.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 197,
+                "width": 163,
+                "x": 23,
+                "y": 5
+            }
+        ],
+        "class": "image",
+        "filename": "chu096.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 222,
+                "width": 218,
+                "x": 5,
+                "y": 2
+            }
+        ],
+        "class": "image",
+        "filename": "chu003.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 191,
+                "width": 190,
+                "x": 24,
+                "y": 20
+            }
+        ],
+        "class": "image",
+        "filename": "chu035.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217,
+                "width": 142,
+                "x": 58,
+                "y": 7
+            }
+        ],
+        "class": "image",
+        "filename": "chu067.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 163,
+                "width": 98,
+                "x": 72,
+                "y": 27
+            }
+        ],
+        "class": "image",
+        "filename": "chu099.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159,
+                "width": 208,
+                "x": 16,
+                "y": 38
+            }
+        ],
+        "class": "image",
+        "filename": "chu006.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 219,
+                "width": 201,
+                "x": 7,
+                "y": 5
+            }
+        ],
+        "class": "image",
+        "filename": "chu038.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 219,
+                "width": 106,
+                "x": 107,
+                "y": 5
+            }
+        ],
+        "class": "image",
+        "filename": "chu070.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 212,
+                "width": 202,
+                "x": 14,
+                "y": 10
+            }
+        ],
+        "class": "image",
+        "filename": "chu009.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 202,
+                "width": 135,
+                "x": 13,
+                "y": 11
+            }
+        ],
+        "class": "image",
+        "filename": "chu041.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 191,
+                "width": 171,
+                "x": 23,
+                "y": 6
+            }
+        ],
+        "class": "image",
+        "filename": "chu073.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 188,
+                "width": 137,
+                "x": 7,
+                "y": 24
+            }
+        ],
+        "class": "image",
+        "filename": "chu012.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105,
+                "width": 96,
+                "x": 72,
+                "y": 87
+            }
+        ],
+        "class": "image",
+        "filename": "chu044.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 223,
+                "width": 224,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu076.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 194,
+                "width": 187,
+                "x": 0,
+                "y": 20
+            }
+        ],
+        "class": "image",
+        "filename": "chu015.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 109,
+                "width": 68,
+                "x": 68,
+                "y": 63
+            }
+        ],
+        "class": "image",
+        "filename": "chu047.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 219,
+                "width": 216,
+                "x": 3,
+                "y": 4
+            }
+        ],
+        "class": "image",
+        "filename": "chu079.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 190,
+                "x": 1,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu018.jpg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 221,
+                "width": 175,
+                "x": 14,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu050.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 215,
+                "width": 215,
+                "x": 5,
+                "y": 2
+            }
+        ],
+        "class": "image",
+        "filename": "chu082.jpeg"
+    },
+	{
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224,
+                "width": 224,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "class": "image",
+        "filename": "chu040.jpeg"
+    }
+]
